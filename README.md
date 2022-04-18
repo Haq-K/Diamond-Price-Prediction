@@ -19,7 +19,7 @@ I constructed a simple feed-forward neural network for the purposes of a regress
 
 ![Model](img/model.png)
 
-The model is trained with a batch size of 64 and for 100 epochs. Early stopping is applied in this training. The training stops at epoch 25, with a training MAE of 736 and validation MAE of 535. The two figures below show the graph of the training process, indicating the convergence of model training.
+The model was trained with a batch size of 64 and for 100 epochs. Early stopping was applied in this training and the model stopped automatically at Epoch 30, with a training MAE of 551 and validation MAE of 158. The two figures below show the graph of the training process.
 
 ![Loss Graph](img/loss.png) ![MAE Graph](img/accuracy.png)
 
