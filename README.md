@@ -1,5 +1,5 @@
 # Diamond-Price-Prediction
-##1. Summary
+## 1. Summary
 The aim of this project was to create an accurate model that would predict the price of a diamond based on the following:
 - the 4Cs (cut / clarity / carat / color)
 - dimensions 
